@@ -12,6 +12,6 @@ Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 escreval("Olá mundo!")
 escreval("Saudades dos tempos que vivemos juntos!")
-
+escreval("Vamos ganhar o hexa!")
 
 Fimalgoritmo
